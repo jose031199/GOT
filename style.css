@@ -94,10 +94,8 @@ header{
     display: flex;
     justify-content: center;
     gap: 50px;
-}
-
-.dragon{
- 
+    padding: 50px;
+    margin: 0 50px;
 }
 
 
@@ -111,6 +109,7 @@ header{
     font-family: 'MedievalSharp', cursive;
     font-weight: bold;
     color: wheat;
+    margin-bottom: 10px;
 }
 
 .dragon .card{
@@ -133,5 +132,5 @@ footer{
     background-color: brown;
     padding: 15px;
     color: white;
-    
+
 }
